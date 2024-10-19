@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="actividad_text">Actividad</string>
+    <string name="nota_text">Nota</string>
+    <string name="guardar_btn">Guardar</string>
+</resources>
